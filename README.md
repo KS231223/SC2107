@@ -245,4 +245,5 @@ by Jonathan Valvano
 
 http://users.ece.utexas.edu/~valvano/
 
+as well as course material from NTU
 ---
